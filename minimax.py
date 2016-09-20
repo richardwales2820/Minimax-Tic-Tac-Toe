@@ -221,4 +221,4 @@ class TicTacToe:
 if __name__ == '__main__':
     t = TicTacToe()
     t.printBoard()
-t.playGame()
+    t.playGame()
